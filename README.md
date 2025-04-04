@@ -27,8 +27,10 @@ An automated attendance system powered by real-time face recognition using Pytho
 | **Register Page** | ![Register Page](Images_GUI/RegisterPage.png) |
 | **Main Page** | ![Main Page](Images_GUI/MainPage.png) |
 | **Student Page** | ![Student Page](Images_GUI/Student_Section.png) |
+| **Dataset** | ![Developer Page](Images_GUI/Dataset.png) |
 | **Training Dataset Page** | ![Training Page](Images_GUI/TrainingDataSet.png) |
 | **Face Detection Page** | ![Face Detection](Images_GUI/Detector.png) |
+| **Output** | ![Developer Page](Images_GUI/OutputPage.png) |
 | **Developer Page** | ![Developer Page](Images_GUI/DeveloperPage.png) |
 
 > 📝 Replace the image names above if your actual files are named differently or use `.jpg`/`.jpeg` extensions.
